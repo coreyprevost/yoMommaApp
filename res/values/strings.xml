@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yo Momma App</string>
+    <string name="button_new_joke_text">New Joke</string>
+    <string name="textView_jokes_text">You wanna hear a yo momma joke?</string>
+
+</resources>
